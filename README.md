@@ -1,13 +1,7 @@
 ### Hi, I'm Gomi 👋
 I'm a front-end developer and I love open source. I've made [Video Roll](https://chrome.google.com/webstore/detail/video-roll/cokngoholafkeghnhhdlmiadlojpindm), [parcel-namer-hashless](https://github.com/gxy5202/parcel-namer-hashless), [light-ruler](https://gomi.site/LightRuler) and many more tools and websites.
 
-🧑‍🚀Find me:
-- Segmentfault: [Gomi](https://segmentfault.com/u/gomi)
-- Website: [Gomi](https://gomi.site)
-- Twitter: [GomiGxy](https://twitter.com/GomiGxy)
-- Email: [gxy880520@gmail.com](gxy880520@gmail.com)
-- Weibo: [锅米君](https://weibo.com/p/1005051781782424/home?from=page_100505&mod=TAB&is_all=1#place)
-- WeChat: gxy880520
+🧑‍🚀Find me: [Segmentfault](https://segmentfault.com/u/gomi) | [Website](https://gomi.site) | [Twitter](https://twitter.com/GomiGxy) | gxy880520@gmail.com | [Weibo](https://weibo.com/p/1005051781782424/home?from=page_100505&mod=TAB&is_all=1#place) | WeChat: gxy880520
 
 ▶️My PowerPoint templates: [Gomi-PPT演绎](https://www.51pptmoban.com/shejishi/Gomi-PPT/)
 
