@@ -1,5 +1,5 @@
 ### Hi, I'm Gomi 👋
-I'm a front-end developer and I love open source. I've made [Video Roll](https://chrome.google.com/webstore/detail/video-roll/cokngoholafkeghnhhdlmiadlojpindm), [parcel-namer-hashless](https://github.com/gxy5202/parcel-namer-hashless), [light-ruler](https://gomi.site/LightRuler) and many more tools and websites.
+I'm a front-end developer and I love open source. I've made [Video Roll](https://gomi.site/VideooRoll), [parcel-namer-hashless](https://github.com/gxy5202/parcel-namer-hashless), [light-ruler](https://gomi.site/LightRuler) and many more tools and websites.
 
 ▶️My PowerPoint templates: [Gomi-PPT演绎](https://www.51pptmoban.com/shejishi/Gomi-PPT/)
 
