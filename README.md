@@ -5,7 +5,7 @@ I'm a front-end developer and I love open source.
 
 🧑‍🚀Find me: [Segmentfault](https://segmentfault.com/u/gomi) | [Website](https://gomi.site) | [Twitter](https://twitter.com/GomiGxy) | gxy880520@gmail.com | [Weibo](https://weibo.com/p/1005051781782424/home?from=page_100505&mod=TAB&is_all=1#place) | WeChat: gxy880520
 
-🫶If you've ever used my free templates or open-souce project, maybe you can buy me a cup of coffee - [afadian](https://afdian.net/a/gomi_gxy/plan)
+🫶If you've ever used my free templates or open-souce project, maybe you can buy me a cup of coffee - [afadian](https://afdian.com/a/gomi_gxy/plan)
 
 ![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxy5202&show_icons=true&theme=transparent)
 <!--
