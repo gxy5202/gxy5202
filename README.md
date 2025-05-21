@@ -1,6 +1,10 @@
 ### Hi, I'm Gomi 👋
 I'm a front-end developer and I love open source.
 
+I am currently working on a brand new version of Video Roll - [videoroll.app](https://videoroll.app)
+
+Personal Website: [Gomi](https://gomi.site)
+
 ▶️My PowerPoint templates: [Gomi-PPT演绎](https://www.51pptmoban.com/shejishi/Gomi-PPT/)
 
 🧑‍🚀Find me: [Segmentfault](https://segmentfault.com/u/gomi) | [Website](https://gomi.site) | [Twitter](https://twitter.com/GomiGxy) | gxy880520@gmail.com | [Weibo](https://weibo.com/p/1005051781782424/home?from=page_100505&mod=TAB&is_all=1#place) | WeChat: gxy880520
