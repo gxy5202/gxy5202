@@ -43,12 +43,12 @@
     📖&nbsp;&nbsp;Blog
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   
-  <a href="gxy880520@example.com">
-    💬&nbsp;&nbsp;gxy880520@example.com
+  <a href="gxy880520@gmail.com">
+    ✉️&nbsp;&nbsp;gxy880520@gmail.com
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
   <a href="https://x.com/GomiGxy">
-    ⭐️&nbsp;&nbsp;Follow
+    Twitter / X
   </a>
 </h4>
 
