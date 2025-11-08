@@ -1,54 +1,54 @@
-### 👋 Hi, I’m Gomi
+<h2 align="center">👋 Hi, I’m Gomi</h2>
 
-A web developer who loves open source, focusing on front-end engineering and the browser ecosystem.  
-I’ve contributed code or documentation to projects like  
-**[antv/x6](https://github.com/antvis/X6)** · **[MDN](https://developer.mozilla.org/)** · **[Parcel](https://github.com/parcel-bundler/parcel)** · **[Vite](https://github.com/vitejs/vite)** · **[Astro](https://github.com/withastro/astro)**  
+<p align="center">
+  A web developer who loves open source, focusing on front-end engineering and the browser ecosystem.<br/>
+  I’ve contributed to <a href="https://github.com/antvis/X6">antv/x6</a>, <a href="https://developer.mozilla.org/">MDN</a>, <a href="https://github.com/parcel-bundler/parcel">Parcel</a>, <a href="https://github.com/vitejs/vite">Vite</a>, and <a href="https://github.com/withastro/astro">Astro</a>.
+</p>
 
----
+<h3 align="center">🎬 Some of My Projects</h3>
 
-### 🎬 Some of My Projects
+<table>
+  <tr>
+    <td width="50%">
+      <b><a href="https://videoroll.app">Video Roll</a></b><br/>
+      <p>A browser extension that enhances the video-watching experience.<br/>
+      <sub>Used by <b>30,000+</b> users across the web.</sub></p>
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/gxy5202/parcel-namer-hashless">parcel-namer-hashless</a></b><br/>
+      <p>A Parcel v2 plugin that removes content hashes from filenames — ideal for browser extensions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/gxy5202/bun-tasks">bun-tasks</a></b><br/>
+      <p>A lightweight parallel task runner for the Bun runtime.<br/>
+      <sub>Think <code>concurrently</code>, but faster.</sub></p>
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/gxy5202/light-ruler">light-ruler</a></b><br/>
+      <p>A TypeScript-based web ruler component for layout measurement and visual debugging.</p>
+    </td>
+  </tr>
+</table>
 
-- **[Video Roll](https://videoroll.app)**  
-  A browser extension that enhances the video-watching experience.  
-  Used by **30,000+ users** across the web.
+<h3 align="center">✉️ Contact</h3>
 
-- **[parcel-namer-hashless](https://github.com/gxy5202/parcel-namer-hashless)**  
-  A Parcel v2 plugin that removes content hashes from output filenames — useful for browser extensions or any environment that requires stable file names.
+<h4 align="center">
+  <a href="https://gomi.site">
+    🐱&nbsp;&nbsp;Website
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-- **[bun-tasks](https://github.com/gxy5202/bun-tasks)**  
-  A lightweight parallel task runner for the Bun runtime.  
-  Run multiple commands efficiently, similar to `concurrently`, but made for Bun.
+  <a href="https://gomi.site/blog">
+    📖&nbsp;&nbsp;Blog
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  
+  <a href="gxy880520@example.com">
+    💬&nbsp;&nbsp;gxy880520@example.com
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-- **[light-ruler](https://github.com/gxy5202/light-ruler)**  
-  A TypeScript-based web ruler component with infinite scrolling, customizable scales, and colors — perfect for layout measurement and visual debugging.
+  <a href="https://x.com/GomiGxy">
+    ⭐️&nbsp;&nbsp;Follow
+  </a>
+</h4>
 
-- **[audio-hacker](https://github.com/gxy5202/audio-hacker)**  
-  A Web Audio API toolkit for manipulating pitch, volume, and playback speed of media elements in real time.
-
----
-
-### ✉️ Contact
-
-- **Email**: gxy880520@example.com
-- **Twitter / X**: [@GomiGxy](https://x.com/GomiGxy)
-- **Website / Blog**: [gomi.site](https://gomi.site)
-
----
-
-> 🌱 Still building things that are useful, delightful, and a little bit fun along the way.
-<!--
-![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxy5202&show_icons=true&theme=transparent)
-
-**gxy5202/gxy5202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
