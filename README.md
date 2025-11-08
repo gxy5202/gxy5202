@@ -1,15 +1,41 @@
-### Hi, I'm Gomi 👋
-I'm a front-end developer and I love open source.
+### 👋 Hi, I’m Gomi
 
-I am currently working on a brand new version of Video Roll - [videoroll.app](https://videoroll.app)
+A web developer who loves open source, focusing on front-end engineering and the browser ecosystem.  
+I’ve contributed code or documentation to projects like  
+**[antv/x6](https://github.com/antvis/X6)** · **[MDN](https://developer.mozilla.org/)** · **[Parcel](https://github.com/parcel-bundler/parcel)** · **[Vite](https://github.com/vitejs/vite)** · **[Astro](https://github.com/withastro/astro)**  
 
-Personal Website: [Gomi](https://gomi.site)
+---
 
-▶️My PowerPoint templates: [Gomi-PPT演绎](https://www.51pptmoban.com/shejishi/Gomi-PPT/)
+### 🎬 Some of My Projects
 
-🧑‍🚀Find me: [Segmentfault](https://segmentfault.com/u/gomi) | [Website](https://gomi.site) | [Twitter](https://twitter.com/GomiGxy) | gxy880520@gmail.com | [Weibo](https://weibo.com/p/1005051781782424/home?from=page_100505&mod=TAB&is_all=1#place) | WeChat: gxy880520
+- **[Video Roll](https://videoroll.app)**  
+  A browser extension that enhances the video-watching experience.  
+  Used by **30,000+ users** across the web.
 
-🫶If you've ever used my free templates or open-souce project, maybe you can buy me a cup of coffee - [afadian](https://afdian.com/a/gomi_gxy/plan)
+- **[parcel-namer-hashless](https://github.com/gxy5202/parcel-namer-hashless)**  
+  A Parcel v2 plugin that removes content hashes from output filenames — useful for browser extensions or any environment that requires stable file names.
+
+- **[bun-tasks](https://github.com/gxy5202/bun-tasks)**  
+  A lightweight parallel task runner for the Bun runtime.  
+  Run multiple commands efficiently, similar to `concurrently`, but made for Bun.
+
+- **[light-ruler](https://github.com/gxy5202/light-ruler)**  
+  A TypeScript-based web ruler component with infinite scrolling, customizable scales, and colors — perfect for layout measurement and visual debugging.
+
+- **[audio-hacker](https://github.com/gxy5202/audio-hacker)**  
+  A Web Audio API toolkit for manipulating pitch, volume, and playback speed of media elements in real time.
+
+---
+
+### ✉️ Contact
+
+- **Email**: gxy880520@example.com
+- **Twitter / X**: [@GomiGxy](https://x.com/GomiGxy)
+- **Website / Blog**: [gomi.site](https://gomi.site)
+
+---
+
+> 🌱 Still building things that are useful, delightful, and a little bit fun along the way.
 <!--
 ![Gomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxy5202&show_icons=true&theme=transparent)
 
