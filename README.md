@@ -1,8 +1,8 @@
 <h2 align="center">👋 Hi, I’m Gomi</h2>
 
 <p align="center">
-  A web developer who loves open source, focusing on front-end engineering and the browser ecosystem.<br/>
-  I’ve contributed to <a href="https://github.com/antvis/X6">antv/x6</a>, <a href="https://developer.mozilla.org/">MDN</a>, <a href="https://github.com/parcel-bundler/parcel">Parcel</a>, <a href="https://github.com/vitejs/vite">Vite</a>, and <a href="https://github.com/withastro/astro">Astro</a>.
+  A web developer who loves <b>open source</b> and <b>building products</b>.<br/>
+  I’ve contributed code and documentation to projects like <a href="https://github.com/antvis/X6">antv/x6</a>, <a href="https://developer.mozilla.org/">MDN</a>, <a href="https://github.com/parcel-bundler/parcel">Parcel</a>, <a href="https://github.com/vitejs/vite">Vite</a>, <a href="https://github.com/youzan/vant">Vant</a> and <a href="https://github.com/withastro/astro">Astro</a>.
 </p>
 
 <h3 align="center">🎬 Some of My Projects</h3>
