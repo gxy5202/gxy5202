@@ -26,8 +26,8 @@
       <sub>Think <code>concurrently</code>, but faster.</sub></p>
     </td>
     <td width="50%">
-      <b><a href="https://github.com/gxy5202/light-ruler">light-ruler</a></b><br/>
-      <p>A TypeScript-based web ruler component for layout measurement and visual debugging.</p>
+      <b><a href="https://github.com/addfox/addfox">AddFox</a></b><br/>
+      <p>Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free.</p>
     </td>
   </tr>
 </table>
