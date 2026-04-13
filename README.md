@@ -12,7 +12,7 @@
     <td width="50%">
       <b><a href="https://videoroll.app">Video Roll</a></b><br/>
       <p>A browser extension that enhances the video-watching experience.<br/>
-      <sub>Used by <b>30,000+</b> users across the web.</sub></p>
+      <sub>Used by <b>40,000+</b> users across the web.</sub></p>
     </td>
     <td width="50%">
       <b><a href="https://github.com/gxy5202/parcel-namer-hashless">parcel-namer-hashless</a></b><br/>
