@@ -26,7 +26,7 @@
       <sub>Think <code>concurrently</code>, but faster.</sub></p>
     </td>
     <td width="50%">
-      <b><a href="https://github.com/addfox/addfox">AddFox</a></b><br/>
+      <b><a href="https://github.com/addfox/addfox">Addfox</a></b><br/>
       <p>Accelerate your browser extension development. Built on Rsbuild — fast, simple, and free.</p>
     </td>
   </tr>
